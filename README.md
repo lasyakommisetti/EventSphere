@@ -4,7 +4,7 @@ A full-stack multi-event management platform built for organizers and participan
   https://drive.google.com/file/d/1Rvowd5kcXSQT8HihYbGafkyOfBJhwskn/view?usp=drivesdk
 
 ---
-  Tech Stack
+ ## Tech Stack
 
   Frontend   → Next.js 14 (App Router), TypeScript, TailwindCSS, shadcn/ui
   
