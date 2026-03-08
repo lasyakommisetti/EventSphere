@@ -7,13 +7,21 @@ A full-stack multi-event management platform built for organizers and participan
   Tech Stack
 
   Frontend   → Next.js 14 (App Router), TypeScript, TailwindCSS, shadcn/ui
+  
   Backend    → Node.js, Express.js
+  
   Database   → MongoDB + Mongoose
+  
   Real-time  → Socket.io
+  
   Auth       → JWT (access + refresh token, HTTP-only cookie)
+  
   Email      → Resend API
+  
   Charts     → Recharts
+  
   State      → Zustand + TanStack React Query
+  
 
   ---
   Key Features
